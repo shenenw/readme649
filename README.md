@@ -1,5 +1,5 @@
 # 🎰 Western Canada 6/49 Robot
-An automated system for retrieving WCLC results, performing deterministic analysis, and generating predictions for the Prairie Provinces and Territories.
+An automated system for retrieving WCLC results, performing deterministic analysis, and generating predictions for the Prairie Provinces.
 
 ---
 
